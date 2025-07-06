@@ -644,7 +644,14 @@ Robot je teraz naučený a môže opakovať tvoj test kedykoľvek chceš! Je to 
 
 funkcny test:
 
-
+# zavolanie testu
 maestro test flows/objednavka.yaml
+
+# sledovanie testu live
 ./start_watcher.sh
+
+# vytvor maestro test
 python -m src.main test_cases/objednavka.txt
+
+# analyza obrazovky
+python -m src.main --analyze-screenshot screenshots/objednavka/objednavka_step_32_20250706_164057.png --debug
