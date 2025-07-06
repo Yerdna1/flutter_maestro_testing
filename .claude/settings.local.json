@@ -23,7 +23,15 @@
       "WebFetch(domain:docs.maestro.dev)",
       "Bash(git init:*)",
       "Bash(git branch:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(ssh-add:*)",
+      "Bash(ssh:*)",
+      "Bash(git remote set-url:*)",
+      "WebFetch(domain:hajomalomfeszt.sk)"
     ],
     "deny": []
   }
