@@ -1,0 +1,21 @@
+1- open web application https://testsk.unilabs.pro
+2- wait 5 seconds
+3- take screenshot with name "LOGIN_PAGE" at path "screenshots/objednavka/" and call OmniParser for analyzing
+4- find "Prihlasovacie Meno" and tap on it
+5- enter here admin@unilabs.sk
+6- find "Heslo" and tap on it
+7- enter here malina
+8- find "Prihlasit sa" and tap on it
+9- wait 5 seconds
+10- take maestro screenshot and call OmniParser for analyzing
+11- find "Vyhľadať Lekára" and tap on it
+12- enter here STRBA
+13- wait 2 seconds
+14- find "Zadajte RC/ID" and tap on it
+15- enter here 11111111
+16- wait 5 seconds
+17- find "Nová objednávka" and tap on it
+18- wait 5 seconds
+19- take maestro screenshot and call OmniParser for analyzing
+20- find "Biochémia a Klinická biológia" and tap on it
+21- wait 5 seconds

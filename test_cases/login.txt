@@ -1,0 +1,11 @@
+1- open web application https://testsk.unilabs.pro
+2- wait 5 seconds
+3- take screenshot and call OmniParser for analyzing
+4- find "Prihlasovacie Meno" and tap on it
+5- enter here admin@unilabs.sk
+6- find "Heslo" and tap on it
+7- enter here malina
+8- find "Prihlasit sa" and tap on it
+9- wait 10 seconds
+10- take screenshot and call OmniParser for analyzing
+11- wait 3 seconds

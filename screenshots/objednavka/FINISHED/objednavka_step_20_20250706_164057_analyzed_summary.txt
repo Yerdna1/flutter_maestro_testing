@@ -1,0 +1,302 @@
+OmniParser Detection Results
+Image: /Volumes/DATA/Python/ScreenAI/screenshots/objednavka/objednavka_step_20_20250706_164057.png
+Image dimensions: 2400x1824
+Total elements detected: 33
+
+Element 1:
+  Description: UI Element 1
+  OCR Text: Mykologia
+  Element Type: text_field
+  Confidence: 0.938
+  BBox: [1208.5516357421877, 1220.908935546875, 1767.167724609375, 1490.433349609375]
+  Center (pixels): (1487.9, 1355.7)
+  Center (percentage): (62%, 74%)
+
+Element 2:
+  Description: UI Element 2
+  OCR Text: Imunologia a alergologia
+  Element Type: text_field
+  Confidence: 0.937
+  BBox: [59.423213958740234, 1222.18701171875, 614.6178588867188, 1490.02685546875]
+  Center (pixels): (337.0, 1356.1)
+  Center (percentage): (14%, 74%)
+
+Element 3:
+  Description: UI Element 3
+  OCR Text: Diabetologia
+  Element Type: text_field
+  Confidence: 0.936
+  BBox: [1785.9172363281248, 1220.591064453125, 2342.153564453125, 1489.6796875]
+  Center (pixels): (2064.0, 1355.1)
+  Center (percentage): (86%, 74%)
+
+Element 4:
+  Description: UI Element 4
+  OCR Text: Klinicka biochemia a hematologia
+  Element Type: text_field
+  Confidence: 0.924
+  BBox: [1210.457763671875, 928.724609375, 1767.376708984375, 1199.914794921875]
+  Center (pixels): (1488.9, 1064.3)
+  Center (percentage): (62%, 58%)
+
+Element 5:
+  Description: UI Element 5
+  OCR Text: Preventivna prehliadka, zakladne vysetrenia
+  Element Type: text_field
+  Confidence: 0.921
+  BBox: [58.185821533203125, 931.1333618164064, 1192.5843505859375, 1201.269775390625]
+  Center (pixels): (625.4, 1066.2)
+  Center (percentage): (26%, 58%)
+
+Element 6:
+  Description: UI Element 6
+  OCR Text: Infekcna serologia, molekularna biologia
+  Element Type: text_field
+  Confidence: 0.918
+  BBox: [1785.8607177734375, 927.4737548828124, 2342.14892578125, 1198.820068359375]
+  Center (pixels): (2064.0, 1063.1)
+  Center (percentage): (86%, 58%)
+
+Element 7:
+  Description: UI Element 7
+  OCR Text: Klinicka mikrobiologia Bakteriologia a parazitologia
+  Element Type: text_field
+  Confidence: 0.893
+  BBox: [635.2594604492188, 1224.0015869140625, 1193.7725830078125, 1489.283935546875]
+  Center (pixels): (914.5, 1356.6)
+  Center (percentage): (38%, 74%)
+
+Element 8:
+  Description: UI Element 9
+  OCR Text: SK
+  Element Type: dropdown
+  Confidence: 0.797
+  BBox: [2059.4423828125, 31.614416122436523, 2240.335205078125, 110.61019134521484]
+  Center (pixels): (2149.9, 71.1)
+  Center (percentage): (90%, 4%)
+
+Element 9:
+  Description: UI Element 10
+  OCR Text: AA Admin Admin
+  Element Type: text_field
+  Confidence: 0.785
+  BBox: [1725.0301513671875, 21.978147506713867, 2047.9906005859375, 113.09268188476562]
+  Center (pixels): (1886.5, 67.5)
+  Center (percentage): (79%, 4%)
+
+Element 10:
+  Description: UI Element 11
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.771
+  BBox: [2255.529541015625, 26.257923126220703, 2348.749267578125, 115.45076751708984]
+  Center (pixels): (2302.1, 70.9)
+  Center (percentage): (96%, 4%)
+
+Element 11:
+  Description: UI Element 12
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.713
+  BBox: [1578.9488525390625, 18.450807571411133, 1682.064208984375, 121.70281982421875]
+  Center (pixels): (1630.5, 70.1)
+  Center (percentage): (68%, 4%)
+
+Element 12:
+  Description: UI Element 13
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.684
+  BBox: [1413.1702880859375, 28.213647842407227, 1496.711181640625, 123.11766815185547]
+  Center (pixels): (1454.9, 75.7)
+  Center (percentage): (61%, 4%)
+
+Element 13:
+  Description: UI Element 14
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.657
+  BBox: [2240.9853515625, 598.39208984375, 2317.197509765625, 669.2472534179688]
+  Center (pixels): (2279.1, 633.8)
+  Center (percentage): (95%, 35%)
+
+Element 14:
+  Description: UI Element 15
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.650
+  BBox: [1095.96142578125, 586.2453002929688, 1165.1009521484375, 682.3356323242188]
+  Center (pixels): (1130.5, 634.3)
+  Center (percentage): (47%, 35%)
+
+Element 15:
+  Description: UI Element 17
+  OCR Text: Patologia Gynekologicka cytologia LBC
+  Element Type: text_field
+  Confidence: 0.622
+  BBox: [1786.83740234375, 1510.4365234375, 2346.169677734375, 1702.179443359375]
+  Center (pixels): (2066.5, 1606.3)
+  Center (percentage): (86%, 88%)
+
+Element 16:
+  Description: UI Element 18
+  OCR Text: Unilabs
+  Element Type: text_field
+  Confidence: 0.617
+  BBox: [131.1951141357422, 35.72060012817383, 302.074462890625, 105.61148071289062]
+  Center (pixels): (216.6, 70.7)
+  Center (percentage): (9%, 4%)
+
+Element 17:
+  Description: UI Element 20
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.575
+  BBox: [512.8788452148438, 598.6560668945312, 588.04248046875, 667.4005126953125]
+  Center (pixels): (550.5, 633.0)
+  Center (percentage): (23%, 35%)
+
+Element 18:
+  Description: UI Element 21
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.571
+  BBox: [445.9500732421875, 45.008872985839844, 501.9991149902344, 103.87503814697266]
+  Center (pixels): (474.0, 74.4)
+  Center (percentage): (20%, 4%)
+
+Element 19:
+  Description: UI Element 23
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.562
+  BBox: [1666.4744873046875, 595.1935424804688, 1742.6875, 671.837646484375]
+  Center (pixels): (1704.6, 633.5)
+  Center (percentage): (71%, 35%)
+
+Element 20:
+  Description: UI Element 24
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.552
+  BBox: [1093.7664794921875, 664.1549682617188, 1163.250244140625, 739.0281372070312]
+  Center (pixels): (1128.5, 701.6)
+  Center (percentage): (47%, 38%)
+
+Element 21:
+  Description: UI Element 25
+  OCR Text: Priama a nepriama diagnostika TBC Pravne oznamenie Unilabs Sloven
+  Element Type: text_input
+  Confidence: 0.502
+  BBox: [1205.6782226562502, 1511.238525390625, 1764.9761962890625, 1808.5372314453125]
+  Center (pixels): (1485.3, 1659.9)
+  Center (percentage): (62%, 91%)
+
+Element 22:
+  Description: UI Element 29
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.422
+  BBox: [48.12401962280274, 199.4110565185547, 127.56694030761719, 267.65045166015625]
+  Center (pixels): (87.8, 233.5)
+  Center (percentage): (4%, 13%)
+
+Element 23:
+  Description: UI Element 30
+  OCR Text: test empty mtp
+  Element Type: text_field
+  Confidence: 0.419
+  BBox: [650.7332153320312, 621.5467529296875, 1121.6097412109375, 735.9121704101562]
+  Center (pixels): (886.2, 678.7)
+  Center (percentage): (37%, 37%)
+
+Element 24:
+  Description: UI Element 32
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.358
+  BBox: [668.8043823242188, 631.0055541992188, 755.7608032226562, 722.0067138671875]
+  Center (pixels): (712.3, 676.5)
+  Center (percentage): (30%, 37%)
+
+Element 25:
+  Description: UI Element 34
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.323
+  BBox: [2236.12060546875, 666.9893188476562, 2318.4375, 749.7264404296875]
+  Center (pixels): (2277.3, 708.4)
+  Center (percentage): (95%, 39%)
+
+Element 26:
+  Description: UI Element 36
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.276
+  BBox: [512.9681396484375, 658.697265625, 595.4140625, 741.609130859375]
+  Center (pixels): (554.2, 700.2)
+  Center (percentage): (23%, 38%)
+
+Element 27:
+  Description: UI Element 37
+  OCR Text: Nova sablona moce
+  Element Type: text_field
+  Confidence: 0.261
+  BBox: [1802.9805908203125, 616.49560546875, 2320.013916015625, 738.67041015625]
+  Center (pixels): (2061.5, 677.6)
+  Center (percentage): (86%, 37%)
+
+Element 28:
+  Description: UI Element 38
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.254
+  BBox: [1663.4844970703125, 666.7459106445312, 1744.9160156249998, 746.5723266601562]
+  Center (pixels): (1704.2, 706.7)
+  Center (percentage): (71%, 39%)
+
+Element 29:
+  Description: UI Element 42
+  OCR Text: test 10/2023
+  Element Type: phone_number
+  Confidence: 0.243
+  BBox: [69.32567596435547, 612.296630859375, 575.4306640625, 732.6707153320312]
+  Center (pixels): (322.4, 672.5)
+  Center (percentage): (13%, 37%)
+
+Element 30:
+  Description: UI Element 43
+  OCR Text: TEST ,
+  Element Type: label
+  Confidence: 0.235
+  BBox: [1.203703761100769, 0.0, 134.288818359375, 123.08667755126952]
+  Center (pixels): (67.7, 61.5)
+  Center (percentage): (3%, 3%)
+
+Element 31:
+  Description: UI Element 44
+  OCR Text: Test overwrite
+  Element Type: text_field
+  Confidence: 0.233
+  BBox: [1223.6197509765625, 604.5081787109375, 1736.22021484375, 752.1342163085938]
+  Center (pixels): (1479.9, 678.3)
+  Center (percentage): (62%, 37%)
+
+Element 32:
+  Description: UI Element 45
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.224
+  BBox: [316.56243896484375, 431.80743408203125, 364.117919921875, 492.40112304687506]
+  Center (pixels): (340.3, 462.1)
+  Center (percentage): (14%, 25%)
+
+Element 33:
+  Description: UI Element 47
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.218
+  BBox: [364.8707580566406, 430.9768981933594, 405.3367919921875, 494.2730407714844]
+  Center (pixels): (385.1, 462.6)
+  Center (percentage): (16%, 25%)
+

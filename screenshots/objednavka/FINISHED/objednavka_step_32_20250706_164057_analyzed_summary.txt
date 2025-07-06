@@ -1,0 +1,311 @@
+OmniParser Detection Results
+Image: /Volumes/DATA/Python/ScreenAI/screenshots/objednavka/objednavka_step_32_20250706_164057.png
+Image dimensions: 2400x1824
+Total elements detected: 34
+
+Element 1:
+  Description: UI Element 1
+  OCR Text: 
+  Element Type: banner
+  Confidence: 0.884
+  BBox: [693.90283203125, 234.11697387695312, 1046.761962890625, 350.7691345214844]
+  Center (pixels): (870.3, 292.4)
+  Center (percentage): (36%, 16%)
+
+Element 2:
+  Description: UI Element 2
+  OCR Text: Pacient
+  Element Type: text_field
+  Confidence: 0.880
+  BBox: [1954.5377197265627, 249.04505920410156, 2363.380126953125, 372.1541748046875]
+  Center (pixels): (2159.0, 310.6)
+  Center (percentage): (90%, 17%)
+
+Element 3:
+  Description: UI Element 3
+  OCR Text: 24-ZP: Dovera
+  Element Type: text_field
+  Confidence: 0.879
+  BBox: [106.29060363769531, 237.7453308105469, 647.3218994140625, 350.4860534667969]
+  Center (pixels): (376.8, 294.1)
+  Center (percentage): (16%, 16%)
+
+Element 4:
+  Description: UI Element 4
+  OCR Text: Zhrnutie
+  Element Type: text_field
+  Confidence: 0.867
+  BBox: [1956.23046875, 841.7322387695312, 2364.325439453125, 959.0684204101562]
+  Center (pixels): (2160.3, 900.4)
+  Center (percentage): (90%, 49%)
+
+Element 5:
+  Description: UI Element 5
+  OCR Text: Vzorky
+  Element Type: text_field
+  Confidence: 0.866
+  BBox: [1961.0892333984375, 722.707763671875, 2364.203125, 842.399658203125]
+  Center (pixels): (2162.6, 782.6)
+  Center (percentage): (90%, 43%)
+
+Element 6:
+  Description: UI Element 6
+  OCR Text: Vysetrenia
+  Element Type: text_field
+  Confidence: 0.852
+  BBox: [1956.4538574218748, 369.8380126953125, 2362.707275390625, 486.58319091796875]
+  Center (pixels): (2159.6, 428.2)
+  Center (percentage): (90%, 23%)
+
+Element 7:
+  Description: UI Element 7
+  OCR Text: AA Admin Admin
+  Element Type: text_field
+  Confidence: 0.852
+  BBox: [1730.831787109375, 27.115114212036133, 2045.9144287109375, 110.27808380126953]
+  Center (pixels): (1888.4, 68.7)
+  Center (percentage): (79%, 4%)
+
+Element 8:
+  Description: UI Element 8
+  OCR Text: Poznamka
+  Element Type: text_field
+  Confidence: 0.846
+  BBox: [1958.8485107421877, 487.4992980957031, 2362.604248046875, 598.1494750976562]
+  Center (pixels): (2160.7, 542.8)
+  Center (percentage): (90%, 30%)
+
+Element 9:
+  Description: UI Element 9
+  OCR Text: SK
+  Element Type: dropdown
+  Confidence: 0.839
+  BBox: [2059.47509765625, 30.119503021240238, 2241.0615234375, 112.17631530761719]
+  Center (pixels): (2150.3, 71.1)
+  Center (percentage): (90%, 4%)
+
+Element 10:
+  Description: UI Element 10
+  OCR Text: Nova Sablona
+  Element Type: text_field
+  Confidence: 0.825
+  BBox: [1957.3834228515625, 960.6826782226562, 2362.536376953125, 1076.255859375]
+  Center (pixels): (2160.0, 1018.5)
+  Center (percentage): (90%, 56%)
+
+Element 11:
+  Description: UI Element 12
+  OCR Text: Len oznacene
+  Element Type: text_field
+  Confidence: 0.814
+  BBox: [1961.2705078125, 606.656005859375, 2363.853515625, 719.4892578125]
+  Center (pixels): (2162.6, 663.1)
+  Center (percentage): (90%, 36%)
+
+Element 12:
+  Description: UI Element 13
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.798
+  BBox: [2253.374755859375, 25.2556209564209, 2350.259521484375, 115.23867797851562]
+  Center (pixels): (2301.8, 70.2)
+  Center (percentage): (96%, 4%)
+
+Element 13:
+  Description: UI Element 14
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.792
+  BBox: [490.7748718261719, 1632.5611572265625, 535.5841064453125, 1684.41845703125]
+  Center (pixels): (513.2, 1658.5)
+  Center (percentage): (21%, 91%)
+
+Element 14:
+  Description: UI Element 15
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.781
+  BBox: [1563.1937255859375, 23.70357322692871, 1688.3204345703125, 117.07012176513672]
+  Center (pixels): (1625.8, 70.4)
+  Center (percentage): (68%, 4%)
+
+Element 15:
+  Description: UI Element 16
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.763
+  BBox: [543.3399047851562, 1633.8173828125, 592.288818359375, 1686.361572265625]
+  Center (pixels): (567.8, 1660.1)
+  Center (percentage): (24%, 91%)
+
+Element 16:
+  Description: UI Element 17
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.752
+  BBox: [1810.0340576171875, 257.2351379394531, 1885.0311279296875, 332.2391357421875]
+  Center (pixels): (1847.5, 294.7)
+  Center (percentage): (77%, 16%)
+
+Element 17:
+  Description: UI Element 18
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.715
+  BBox: [1409.4737548828125, 25.231882095336914, 1498.2432861328125, 123.37565612792967]
+  Center (pixels): (1453.9, 74.3)
+  Center (percentage): (61%, 4%)
+
+Element 18:
+  Description: UI Element 19
+  OCR Text: TEST ,
+  Element Type: label
+  Confidence: 0.714
+  BBox: [0.057535167783498764, 0.6836163401603699, 128.6055145263672, 120.40763092041014]
+  Center (pixels): (64.3, 60.5)
+  Center (percentage): (3%, 3%)
+
+Element 19:
+  Description: UI Element 20
+  OCR Text: Vymazat Ulozene 6. 7. 2025 21.48
+  Element Type: button
+  Confidence: 0.693
+  BBox: [1959.16796875, 1194.7193603515625, 2367.144775390625, 1381.0479736328125]
+  Center (pixels): (2163.2, 1287.9)
+  Center (percentage): (90%, 71%)
+
+Element 20:
+  Description: UI Element 22
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.684
+  BBox: [108.69310760498047, 406.0773010253906, 271.13775634765625, 484.59387207031244]
+  Center (pixels): (189.9, 445.3)
+  Center (percentage): (8%, 24%)
+
+Element 21:
+  Description: UI Element 23
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.615
+  BBox: [1806.8505859375, 499.8185729980469, 1889.002685546875, 591.3222045898438]
+  Center (pixels): (1847.9, 545.6)
+  Center (percentage): (77%, 30%)
+
+Element 22:
+  Description: UI Element 24
+  OCR Text: PDF
+  Element Type: text_field
+  Confidence: 0.615
+  BBox: [1960.2945556640625, 1077.2421875, 2365.45654296875, 1193.2298583984375]
+  Center (pixels): (2162.9, 1135.2)
+  Center (percentage): (90%, 62%)
+
+Element 23:
+  Description: UI Element 25
+  OCR Text: 2
+  Element Type: number
+  Confidence: 0.592
+  BBox: [1097.1951904296875, 259.1971740722656, 1173.0736083984375, 335.4419250488281]
+  Center (pixels): (1135.1, 297.3)
+  Center (percentage): (47%, 16%)
+
+Element 24:
+  Description: UI Element 27
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.568
+  BBox: [426.80828857421875, 1706.346923828125, 473.46075439453125, 1761.859619140625]
+  Center (pixels): (450.1, 1734.1)
+  Center (percentage): (19%, 95%)
+
+Element 25:
+  Description: UI Element 29
+  OCR Text: Unilabs Pro TEST ,
+  Element Type: text_field
+  Confidence: 0.517
+  BBox: [0.0, 7.542500019073486, 409.0065002441406, 119.14806365966797]
+  Center (pixels): (204.5, 63.3)
+  Center (percentage): (9%, 3%)
+
+Element 26:
+  Description: UI Element 32
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.457
+  BBox: [112.45597076416016, 495.368408203125, 190.17030334472656, 590.92041015625]
+  Center (pixels): (151.3, 543.1)
+  Center (percentage): (6%, 30%)
+
+Element 27:
+  Description: UI Element 33
+  OCR Text: 
+  Element Type: icon
+  Confidence: 0.355
+  BBox: [471.56585693359375, 1771.6624755859375, 518.1103515625, 1810.6097412109375]
+  Center (pixels): (494.8, 1791.1)
+  Center (percentage): (21%, 98%)
+
+Element 28:
+  Description: UI Element 34
+  OCR Text: 
+  Element Type: icon
+  Confidence: 0.351
+  BBox: [2362.105224609375, 246.3758697509766, 2400.0, 359.2555236816406]
+  Center (pixels): (2381.1, 302.8)
+  Center (percentage): (99%, 17%)
+
+Element 29:
+  Description: UI Element 38
+  OCR Text: Skuska kompatibility
+  Element Type: text_field
+  Confidence: 0.294
+  BBox: [224.61134338378906, 1633.9864501953125, 505.89794921875, 1681.034423828125]
+  Center (pixels): (365.3, 1657.5)
+  Center (percentage): (15%, 91%)
+
+Element 30:
+  Description: UI Element 39
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.277
+  BBox: [737.4356079101562, 841.1722412109375, 793.3283081054689, 890.0822143554688]
+  Center (pixels): (765.4, 865.6)
+  Center (percentage): (32%, 47%)
+
+Element 31:
+  Description: UI Element 42
+  OCR Text: 
+  Element Type: icon
+  Confidence: 0.255
+  BBox: [191.88165283203125, 1580.6409912109375, 234.8826446533203, 1617.5989990234375]
+  Center (pixels): (213.4, 1599.1)
+  Center (percentage): (9%, 88%)
+
+Element 32:
+  Description: UI Element 43
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.253
+  BBox: [1292.642333984375, 842.3535766601562, 1342.9906005859375, 889.3592529296875]
+  Center (pixels): (1317.8, 865.9)
+  Center (percentage): (55%, 47%)
+
+Element 33:
+  Description: UI Element 44
+  OCR Text: 
+  Element Type: icon
+  Confidence: 0.249
+  BBox: [193.03468322753906, 1636.18212890625, 235.62026977539062, 1676.39794921875]
+  Center (pixels): (214.3, 1656.3)
+  Center (percentage): (9%, 91%)
+
+Element 34:
+  Description: UI Element 45
+  OCR Text: Vyberte odporucaneho alebo zastupovaneh.
+  Element Type: text_field
+  Confidence: 0.247
+  BBox: [1124.582275390625, 240.76438903808594, 1873.1484375, 338.72674560546875]
+  Center (pixels): (1498.9, 289.7)
+  Center (percentage): (62%, 16%)
+

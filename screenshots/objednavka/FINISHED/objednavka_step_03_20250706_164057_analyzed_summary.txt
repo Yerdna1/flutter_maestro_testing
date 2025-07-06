@@ -1,0 +1,140 @@
+OmniParser Detection Results
+Image: /Volumes/DATA/Python/ScreenAI/screenshots/objednavka/objednavka_step_03_20250706_164057.png
+Image dimensions: 2400x1824
+Total elements detected: 15
+
+Element 1:
+  Description: UI Element 1
+  OCR Text: Pouzivatelsky manual
+  Element Type: link
+  Confidence: 0.878
+  BBox: [1433.416748046875, 1078.677978515625, 1580.6900634765623, 1290.9095458984375]
+  Center (pixels): (1507.1, 1184.8)
+  Center (percentage): (63%, 65%)
+
+Element 2:
+  Description: UI Element 2
+  OCR Text: Vase najcastejsie
+  Element Type: label
+  Confidence: 0.872
+  BBox: [1734.014892578125, 1077.88330078125, 1883.6070556640625, 1287.1263427734375]
+  Center (pixels): (1808.8, 1182.5)
+  Center (percentage): (75%, 65%)
+
+Element 3:
+  Description: UI Element 3
+  OCR Text: Rychly uzivatelsky n.
+  Element Type: label
+  Confidence: 0.865
+  BBox: [1271.044921875, 1078.3199462890625, 1424.022705078125, 1288.567138671875]
+  Center (pixels): (1347.5, 1183.4)
+  Center (percentage): (56%, 65%)
+
+Element 4:
+  Description: UI Element 4
+  OCR Text: Instruktazne video
+  Element Type: label
+  Confidence: 0.865
+  BBox: [1586.47119140625, 1078.7386474609375, 1728.7712402343752, 1290.1456298828125]
+  Center (pixels): (1657.6, 1184.4)
+  Center (percentage): (69%, 65%)
+
+Element 5:
+  Description: UI Element 5
+  OCR Text: 07 Heslo
+  Element Type: text_input
+  Confidence: 0.862
+  BBox: [1640.843505859375, 420.8901062011719, 2124.16748046875, 531.935546875]
+  Center (pixels): (1882.5, 476.4)
+  Center (percentage): (78%, 26%)
+
+Element 6:
+  Description: UI Element 6
+  OCR Text: 8 Prihlasovacie meno
+  Element Type: text_input
+  Confidence: 0.859
+  BBox: [1639.472900390625, 303.5138854980469, 2123.524658203125, 415.3463439941406]
+  Center (pixels): (1881.5, 359.4)
+  Center (percentage): (78%, 20%)
+
+Element 7:
+  Description: UI Element 7
+  OCR Text: Prihlasit sa
+  Element Type: button
+  Confidence: 0.835
+  BBox: [1641.71875, 677.0494995117188, 2123.846923828125, 764.8776245117188]
+  Center (pixels): (1882.8, 721.0)
+  Center (percentage): (78%, 40%)
+
+Element 8:
+  Description: UI Element 8
+  OCR Text: Unilabs Pro TEST
+  Element Type: text_field
+  Confidence: 0.812
+  BBox: [0.0, 0.8850108981132507, 323.3905334472656, 118.94437408447266]
+  Center (pixels): (161.7, 59.9)
+  Center (percentage): (7%, 3%)
+
+Element 9:
+  Description: UI Element 9
+  OCR Text: invitro Casopis laboratornej diagnostike
+  Element Type: label
+  Confidence: 0.793
+  BBox: [1986.4658203125, 1051.2789306640625, 2150.795654296875, 1340.1181640625]
+  Center (pixels): (2068.6, 1195.7)
+  Center (percentage): (86%, 66%)
+
+Element 10:
+  Description: UI Element 10
+  OCR Text: Zmiuvne podmienky
+  Element Type: checkbox
+  Confidence: 0.635
+  BBox: [2244.647705078125, 1666.53271484375, 2398.925048828125, 1812.324951171875]
+  Center (pixels): (2321.8, 1739.4)
+  Center (percentage): (97%, 95%)
+
+Element 11:
+  Description: UI Element 11
+  OCR Text: SK
+  Element Type: dropdown
+  Confidence: 0.521
+  BBox: [2182.36083984375, 28.929889678955078, 2358.2587890625, 110.18035125732422]
+  Center (pixels): (2270.3, 69.6)
+  Center (percentage): (95%, 4%)
+
+Element 12:
+  Description: UI Element 13
+  OCR Text: 0850 150 000
+  Element Type: phone_number
+  Confidence: 0.312
+  BBox: [810.6657714843751, 1752.8580322265625, 1103.8077392578125, 1821.1234130859375]
+  Center (pixels): (957.2, 1787.0)
+  Center (percentage): (40%, 98%)
+
+Element 13:
+  Description: UI Element 15
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.266
+  BBox: [2184.681640625, 37.37132263183594, 2255.3759765625, 107.7099380493164]
+  Center (pixels): (2220.0, 72.5)
+  Center (percentage): (93%, 4%)
+
+Element 14:
+  Description: UI Element 17
+  OCR Text: Pravne oznamenie
+  Element Type: text_input
+  Confidence: 0.236
+  BBox: [1184.467041015625, 1711.39501953125, 1516.554443359375, 1790.7144775390625]
+  Center (pixels): (1350.5, 1751.1)
+  Center (percentage): (56%, 96%)
+
+Element 15:
+  Description: UI Element 18
+  OCR Text: 
+  Element Type: container
+  Confidence: 0.235
+  BBox: [1662.4361572265623, 334.2757873535156, 1715.7755126953125, 391.8538513183594]
+  Center (pixels): (1689.1, 363.1)
+  Center (percentage): (70%, 20%)
+

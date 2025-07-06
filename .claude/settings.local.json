@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:huggingface.co)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(chmod:*)",
+      "Bash(pip install:*)",
+      "Bash(git clone:*)",
+      "Bash(python:*)",
+      "Bash(maestro test:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(rg:*)",
+      "mcp__ide__executeCode",
+      "Bash(rm:*)",
+      "Bash(time:*)",
+      "Bash(SCREENSHOT_PATH=\"screenshots/objednavka/objednavka_step_11_20250706_153813.png\" TEST_NAME=\"objednavka\" ACTION_INDEX=\"10\" python3 flows/analyze_screenshot.py)",
+      "WebFetch(domain:maestro.mobile.dev)",
+      "WebFetch(domain:docs.maestro.dev)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
